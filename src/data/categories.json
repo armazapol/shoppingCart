@@ -1,0 +1,8 @@
+{
+    "categories": [
+        {"label": "todos", "value": "all"},
+        {"label": "laptops", "value": "laptops"},
+        {"label": "smartphones", "value": "smartphones"},
+        {"label": "fragancias", "value": "fragrances"}
+    ]
+}  
